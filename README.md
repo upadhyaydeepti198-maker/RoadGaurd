@@ -1,4 +1,4 @@
-# RoadGuard AI Pro - Smart Road Safety System (v12)
+# RoadGuard  - Smart Road Safety System (v12)
 
 Photo ya live camera se potholes, cracks aur damaged surface detect karta hai, beep + voice warning deta hai, aur ab **GPS map, hotspots, export aur report** bhi deta hai.
 
